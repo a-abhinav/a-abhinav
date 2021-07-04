@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as MLSA
 - 🌱 I’m currently learning AI/ML,WebDev
-- 🤔 I’m looking for help with open source contribution
+- 🤔 I’m looking to work in open source development
 - 📫 How to reach me: https://www.linkedin.com/in/abhinav-goyal-bbba34193/
 <!--
 - 👯 I’m looking to collaborate on ...
